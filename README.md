@@ -1,7 +1,10 @@
-Github Frontend:- https://github.com/NikhitaBoyidapu/PersonalBudgetProject-Frontend
-Github Backend:- https://github.com/NikhitaBoyidapu/PersonalBudgetProject-Backend
-Live Server:- 
+Github:-
+Frontend:-https://github.com/NikhitaBoyidapu/PersonalBudgetFrontend
+Backend:- https://github.com/NikhitaBoyidapu/PersonalBudgetProject-Backend
 
+Live Web-app
+Frontend:- https://seahorse-app-zumzx.ondigitalocean.app/
+Backend:- https://seashell-app-pjx64.ondigitalocean.app/
 
 
 # Getting Started with Create React App
